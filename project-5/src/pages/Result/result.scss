@@ -1,0 +1,29 @@
+.result{
+    padding: 0;
+    margin: 0;
+    &__item{
+        
+        &--true{
+            margin: 0 20px;
+            padding: 5px 10px;
+            border: 1px solid red ;
+            border-radius: 10px;
+            background-color: red;
+            color: #fff;
+        }
+        &--false{
+            margin: 0 20px;
+            padding: 5px 20px;
+            border: 1px solid green;
+            border-radius: 10px;
+            background-color: green;
+            color: #fff;
+        }
+        &--selected{
+            color: green;
+        }
+        &--result{
+            color: red;
+        }
+    }
+}

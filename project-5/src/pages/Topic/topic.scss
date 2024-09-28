@@ -1,0 +1,29 @@
+.container {
+    padding: 80px 0;
+}
+
+.table {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    width: 1000px;
+    text-align: center;
+
+    th,
+    td {
+        padding: 12px 15px;
+        border: 1px solid #ddd;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f4f4f4;
+        font-weight: bold;
+    }
+    button{
+        background: #fff;
+        padding: 10px;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+    }
+}

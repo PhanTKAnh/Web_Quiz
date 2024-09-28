@@ -1,0 +1,29 @@
+.register{
+    width: 40%;
+    padding: 100px 50px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 100px 300px 200px;
+
+    input{
+        width: 80%;
+        margin: 20px;
+        font-size: 25px;
+        outline: none;
+        padding: 10px;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+    }
+    &__button{
+        input{
+            padding: 10px 20px;
+            background: #B8C7E7;
+            border: 1px solid #ddd;
+            color: #fff;
+            border-radius: 10px;
+        }
+       
+
+    }
+}

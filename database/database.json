@@ -1,0 +1,1057 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyen thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bkP9VQdMBRmW67obqD7"
+    },
+    {
+      "id": "2",
+      "fullName": "anh anh",
+      "email": "anh@gmail.com",
+      "password": "1234567",
+      "token": "KwlER8doPh9hOSBQdJv5"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1",
+      "name": "HTML5"
+    },
+    {
+      "id": "2",
+      "name": "CSS3"
+    },
+    {
+      "id": "3",
+      "name": "Javascript"
+    },
+    {
+      "id": "4",
+      "name": "ReactJS"
+    }
+  ],
+  "question": [
+    {
+      "id": "1",
+      "topicsId": 1,
+      "question": "HTML is viết tắt của...?",
+      "answers": [
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "2",
+      "topicsId": 1,
+      "question": "Ai là người đưa ra tiêu chuẩn Web?",
+      "answers": [
+        "Tổ chức Ửold Ưide Ưeb Cổntium (W3C)",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "3",
+      "topicsId": 1,
+      "question": "Chọn thẻ HTML đúng nhất cho định dạng tiêu đề lớn nhất?",
+      "answers": [
+        "<h6>",
+        "<h1>",
+        "<head>",
+        "<heading>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "4",
+      "topicsId": 1,
+      "question": "Thẻ nào dùng để xuống dòng trong HTML?",
+      "answers": [
+        "<enter>",
+        "<br>",
+        "<break>",
+        "<lb>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "5",
+      "topicsId": 1,
+      "question": "Mã HTML nào thực hiện việc thêm màu nền cho trang web?",
+      "answers": [
+        "<body style=\"background-color:red;\">",
+        "<body bg=\"red\">",
+        "<background>red</background>",
+        "<body style=\"color:red;\">"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "6",
+      "topicsId": 1,
+      "question": "Chọn thẻ HTML chính xác dùng để xác định văn bản quan trọng",
+      "answers": [
+        "<important>",
+        "<strong>",
+        "<b>",
+        "<i>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "7",
+      "topicsId": 1,
+      "question": "Chọn thẻ HTML được dùng nhấn mạnh nội dung văn bản",
+      "answers": [
+        "<i>",
+        " <em>",
+        "<italic>",
+        "<b>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "8",
+      "topicsId": 1,
+      "question": "Mã HTML chính xác để tạo liên kết là...",
+      "answers": [
+        "<a name=\"https://quantrimang.com\">QuanTriMang</a>",
+        "<a href=\"https://quantrimang.com\">Quản Trị Mạng</a>",
+        "<a url=\"https://quantrimang.com\">Quản Trị Mạng</a>,",
+        "<a>https://quantrimang.com</a>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "9",
+      "topicsId": 1,
+      "question": "Ký tự nào được dùng để biểu thị cho một thẻ đóng?",
+      "answers": [
+        "\\",
+        "/",
+        "^",
+        "*"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "10",
+      "topicsId": 1,
+      "question": "Mã HTML nào bạn sẽ dùng khi muốn mở link trên 1 tab hoặc cửa sổ mới??",
+      "answers": [
+        "<a href=\"https://quantrimang.com\" target=\"new\">",
+        " <a href=\"https://quantrimang.com\" new>",
+        " <a href=\"https://quantrimang.com\" target=\"_blank\">",
+        "<a href=\"https://quantrimang.com\" blank>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "11",
+      "topicsId": 1,
+      "question": "Những thẻ HTML nào dùng để định nghĩa cấu trúc của bảng?",
+      "answers": [
+        "<table><tr><tt>",
+        "<table><tr><td>",
+        "<table><head><tfoot>",
+        "<thead><body><tr>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "12",
+      "topicsId": 1,
+      "question": "Các thẻ HTML có thể viết liền nhau mà không cần bắt buộc xuống dòng mới?",
+      "answers": [
+        "Đúng",
+        "Sai"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "13",
+      "topicsId": 1,
+      "question": "Để tạo một danh sách có dấu đầu dòng, bạn dùng thẻ HTML nào?",
+      "answers": [
+        "<ul>",
+        " <list>",
+        "<lt>",
+        "<ol>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "14",
+      "topicsId": 1,
+      "question": "Để tạo một danh sách đánh số, bạn dùng phần tử HTML nào?",
+      "answers": [
+        "<list>",
+        "<ul>",
+        "<ol>",
+        "<lt>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "15",
+      "topicsId": 2,
+      "question": "Thuộc tính nào thay đổi kích cỡ chữ?",
+      "answers": [
+        "font-style",
+        "font-size",
+        "text-style",
+        "text-size"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "16",
+      "topicsId": 2,
+      "question": " Thuộc tính nào làm chữ trong tag p trở thành chữ đậm?",
+      "answers": [
+        "{text-size:bold}",
+        "<p style=\"font-size:bold\">",
+        "<p style=\"text-size:bold\">",
+        "p {font-weight:bold}"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "17",
+      "topicsId": 2,
+      "question": "Làm sao để hiển thị liên kết mà ko có gạch chân bên dưới?",
+      "answers": [
+        "a {decoration:no underline}",
+        "a {text-decoration:no underline}",
+        "a {underline:none}",
+        "a {text-decoration:none}"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "18",
+      "topicsId": 2,
+      "question": "Làm sao để mỗi từ trong 1 dạng đều viết hoa ở đầu từ?",
+      "answers": [
+        "text-transform:capitalize",
+        "text-transform:uppercase",
+        "Bạn không thể làm điều này trong CSS",
+        "Không có đáp án nào đúng"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "19",
+      "topicsId": 2,
+      "question": " Làm sao để thay đổi font của mỗi phần tử?",
+      "answers": [
+        "font=",
+        "f:",
+        "font-family:",
+        "Tất cả các câu trên đều sai."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "20",
+      "topicsId": 2,
+      "question": " Làm sao để tạo chữ đậm?",
+      "answers": [
+        "font-weight:bold",
+        "style:bold",
+        "font:b",
+        "Tất cả các câu trên đều đúng"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "21",
+      "topicsId": 2,
+      "question": "Làm thế nào để hiển thị viền 1 phần tử với kích thước đường viền như sau: The top border = 10 pixels The bottom border = 5 pixels The left border = 20 pixels The right border = 1pixel?",
+      "answers": [
+        "border-width:5px 20px 10px 1px",
+        "border-width:10px 5px 20px 1px",
+        "border-width:10px 1px 5px 20px",
+        "border-width:10px 20px 5px 1px"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "22",
+      "topicsId": 2,
+      "question": "Làm sao để thay đổi lề trái của một phần tử?",
+      "answers": [
+        "margin-left:",
+        "text-indent:",
+        "margin:",
+        "indent:"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "23",
+      "topicsId": 2,
+      "question": "Để định nghĩa khoảng trống giữa các cạnh (viền) của phần tử và nội dung, bạn sử dụng thuộc tính padding, có thể gán giá trị âm cho thuộc tính này không?",
+      "answers": [
+        "Có",
+        "Không"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "24",
+      "topicsId": 2,
+      "question": "Làm thế nào để hình ở đầu mỗi dòng của 1 list (danh sách) có hình vuông?",
+      "answers": [
+        "type: 2",
+        "type: square",
+        "list-type: square",
+        "list-style-type: square"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "25",
+      "topicsId": 2,
+      "question": " CSS là chữ viết tắt của: ",
+      "answers": [
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Colorful Style Sheets",
+        "Creative Style Sheets"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "26",
+      "topicsId": 2,
+      "question": " Cú pháp CSS chính xác để in đậm toàn bộ thành phần <span> là gì?",
+      "answers": [
+        "span {font-weight: bold}span {text-size: bold}",
+        "span {font-weight: bold}",
+        "<span style='font-size: bold'>",
+        "<span style='text-size: bold'>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "27",
+      "topicsId": 2,
+      "question": " Cách thêm bình luận vào một file CSS",
+      "answers": [
+        "/* this is a comment */",
+        "// this is a comment //",
+        "// this is a comment",
+        "<!-- this is a comment-->"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "28",
+      "topicsId": 2,
+      "question": "Thuộc tính được dùng để thay đổi màu văn bản của một phần tử là gì?",
+      "answers": [
+        "fontcolor:",
+        "textcolor:",
+        "color:",
+        "font-color:"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "29",
+      "topicsId": 2,
+      "question": "Biểu tượng # cho biết bộ chọn là gì?",
+      "answers": [
+        "class",
+        "tag",
+        "first",
+        "ID"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "30",
+      "topicsId": 2,
+      "question": "Cú pháp CSS chính xác là:",
+      "answers": [
+        "{p:color=black(p}",
+        "p {color: black;}",
+        "{p;color:black}",
+        "p:color=black"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "31",
+      "topicsId": 2,
+      "question": "Cú pháp nào sau đây sẽ được dùng để tạo một ID header có chiều rộng là 750px, cao là 30px và màu của văn bản là màu đen?",
+      "answers": [
+        "#header { height: 30px; width: 750px; color: black; }",
+        ".header { height: 30px; width: 750px; colour: black; }",
+        "#header { height: 30px; width: 750px; text: black; }",
+        ".header { height: 30px; width: 750px; color: black; }"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "32",
+      "topicsId": 2,
+      "question": "Snippet của CSS nào thường được dùng để căn giữa một web theo chiều ngang?",
+      "answers": [
+        "site-align: center;",
+        "margin: center;",
+        "margin: auto 0;",
+        "margin: 0 auto;"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "33",
+      "topicsId": 3,
+      "question": "Function nào sau đây có cơ chế hosting?",
+      "answers": [
+        "Generator function",
+        "Expression function",
+        "Arrow function",
+        "Declaration function"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "34",
+      "topicsId": 3,
+      "question": "Sự khác nhau giữa Arrow function so với 2 function Expression và Declaration?",
+      "answers": [
+        "Có cơ chế hosting",
+        "Không thể khai báo lại",
+        "Không có ngữ cảnh (không có bổ từ this)",
+        "Có ngữ cảnh (Có thể sử dụng bổ từ this)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "35",
+      "topicsId": 3,
+      "question": "Try - catch được sử dụng để làm gì?",
+      "answers": [
+        "Dùng để trả về dữ liệu cho hàm",
+        "Dùng để khai báo hàm",
+        "Dùng để thoát khỏi hàm",
+        "Dùng để xử lý lỗi khi hàm có lỗi xảy ra"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "36",
+      "topicsId": 3,
+      "question": "Từ khóa nào sau đây được sử dụng để trả về giá trị cho hàm ?",
+      "answers": [
+        "break",
+        "return",
+        "this",
+        "console.log()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "37",
+      "topicsId": 3,
+      "question": "Nếu hàm khai báo nhưng không được sử dụng từ khóa return thì hàm đó sẽ nhận giá trị là gì?",
+      "answers": [
+        "null",
+        "0",
+        "false",
+        "undefined"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "38",
+      "topicsId": 3,
+      "question": "Ngôn ngữ Javascript là ngôn ngữ hoạt động theo cơ chế nào ?",
+      "answers": [
+        "Cơ chế đồng bộ",
+        "Cơ chế bất đồng bộ",
+        "Cơ chế đa luồng",
+        "Cơ chế hoán vị"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "39",
+      "topicsId": 3,
+      "question": "Kết quả của câu lệnh sau là gì?console.log(Number(false));",
+      "answers": [
+        "false",
+        "0",
+        "null",
+        "undefined"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "40",
+      "topicsId": 3,
+      "question": "Vị trí bắt đầu của các phần tử trong mảng là bao nhiêu?",
+      "answers": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "41",
+      "topicsId": 3,
+      "question": "Built-in function là gì?",
+      "answers": [
+        "Là những hàm được lập trình viên tự xây dựng",
+        "Là những hàm lấy từ bên ngoài",
+        "là những hàm được ngôn ngữ nào đó xây dựng sẵn",
+        "Là những hàm do các hàm tự sinh ra trong quá trình thực thi code"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "42",
+      "topicsId": 3,
+      "question": "Hàm nào được sử dụng để thêm phần tử vào cuối mảng?",
+      "answers": [
+        "pop()",
+        "shift()",
+        "unshift()",
+        "push()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "43",
+      "topicsId": 3,
+      "question": "Hàm nào được sử dụng để xóa phần tử ở cuối mảng?",
+      "answers": [
+        "push()",
+        "pop()",
+        "shift()",
+        "unshift()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "44",
+      "topicsId": 3,
+      "question": "Hàm nào được sử dụng để thêm phần tử vào đầu mảng?",
+      "answers": [
+        "shift()",
+        "unshift()",
+        "push()",
+        "pop()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "45",
+      "topicsId": 3,
+      "question": "Hàm nào được sử dụng để xóa phần tử ở đầu mảng?",
+      "answers": [
+        "push()",
+        "pop()",
+        "shift()",
+        "unshift()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "46",
+      "topicsId": 3,
+      "question": "Để chuyển đổi một mảng thành một chuỗi thì ta dùng hàm nào?",
+      "answers": [
+        "split()",
+        "join()",
+        "toString()",
+        "splice()"
+      ],
+      "correctAnswer": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "47",
+      "topicsId": 3,
+      "question": "Hàm nào được sử dụng để chuyển đổi một chuỗi thành một mảng?",
+      "answers": [
+        "join()",
+        "split()",
+        "toString()",
+        "splice()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "48",
+      "topicsId": 3,
+      "question": "Để đếm được số lượng ký tự của một chuỗi và số lượng các phần tử trong mảng thì ta dùng từ khóa nào sau đây?",
+      "answers": [
+        "size",
+        "lenght()",
+        "length()",
+        "length"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "49",
+      "topicsId": 3,
+      "question": "Để kiểm tra kiểu dữ liệu chính xác của một array thì chúng ta sử dụng cú pháp nào?",
+      "answers": [
+        "type",
+        "typeof",
+        "Array()",
+        "rray.isArray()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "50",
+      "topicsId": 3,
+      "question": "typeof của array sẽ cho kết quả gì?",
+      "answers": [
+        "function",
+        "array",
+        "object",
+        "NaN"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "51",
+      "topicsId": 3,
+      "question": "typeof của một function cho ra kết quả là gì?",
+      "answers": [
+        "function",
+        "object",
+        "NaN",
+        "null"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "52",
+      "topicsId": 4,
+      "question": "React là gì?",
+      "answers": [
+        "Thư viện JavaScript để xây dựng giao diện người dùng",
+        "Framework toàn diện cho xây dựng ứng dụng web",
+        "Công cụ quản lý trạng thái cho ứng dụng web",
+        " Công cụ để viết CSS trong JavaScript"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "53",
+      "topicsId": 4,
+      "question": "JSX trong React là gì?",
+      "answers": [
+        " Một phương pháp tổ chức CSS cho React",
+        "Một công nghệ thay thế HTML",
+        "Một cú pháp mở rộng cho JavaScript",
+        "Một cách viết JavaScript thuần túy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "54",
+      "topicsId": 4,
+      "question": "Component trong React là gì?",
+      "answers": [
+        "Một thư viện độc lập",
+        "Một phần nhỏ của giao diện người dùng có thể tái sử dụng",
+        "Một đối tượng lưu trữ dữ liệu",
+        " Một phần của state"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "55",
+      "topicsId": 4,
+      "question": "Trong React, phương pháp nào được sử dụng để quản lý trạng thái?",
+      "answers": [
+        "setState()",
+        "getState()",
+        "useState()",
+        "manageState()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "56",
+      "topicsId": 4,
+      "question": "Lifecycle method nào được gọi khi một component vừa được render lần đầu tiên?",
+      "answers": [
+        " componentDidMount",
+        "componentWillMount",
+        "shouldComponentUpdate",
+        "componentWillUnmount"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "57",
+      "topicsId": 4,
+      "question": "useEffect hook trong React được sử dụng để làm gì?",
+      "answers": [
+        "Để quản lý state",
+        "Để quản lý các side effects như fetch API hoặc thao tác DOM",
+        "Để cập nhật props",
+        "Để quản lý CSS"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "58",
+      "topicsId": 4,
+      "question": "PropTypes trong React dùng để làm gì?",
+      "answers": [
+        " Để định nghĩa các kiểu dữ liệu của props",
+        "Để thay đổi giá trị của props",
+        "Để kết nối với Redux store",
+        "Để tối ưu hóa hiệu suất"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "59",
+      "topicsId": 4,
+      "question": "Context API trong React được sử dụng để làm gì?",
+      "answers": [
+        " Quản lý state cục bộ",
+        "Truyền dữ liệu giữa các component mà không cần props",
+        "Quản lý các effect trong ứng dụng",
+        "Tăng hiệu suất render"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "60",
+      "topicsId": 4,
+      "question": "useRef hook trong React giúp bạn làm gì?",
+      "answers": [
+        "Quản lý state",
+        "Tạo tham chiếu đến các DOM element hoặc giá trị không đổi qua các lần render",
+        "Kết nối với Redux store",
+        " Cập nhật props"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "61",
+      "topicsId": 4,
+      "question": "useMemo hook trong React được sử dụng để làm gì?",
+      "answers": [
+        "Tránh việc tính toán lại những giá trị không cần thiết qua các lần render",
+        "Tạo tham chiếu đến các DOM element",
+        "Quản lý state",
+        "Kết nối với một API"
+      ],
+      "correctAnswer": 0
+    }
+  ],
+  "answers": [
+    {
+      "userId": 2,
+      "topicsId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 2
+        },
+        {
+          "questionId": 3,
+          "answer": 3
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "238f",
+      "userId": 1,
+      "topicsId": 2,
+      "answers": [
+        {
+          "questionId": 15,
+          "answer": 2
+        },
+        {
+          "questionId": 16,
+          "answer": 1
+        },
+        {
+          "questionId": 17,
+          "answer": 0
+        },
+        {
+          "questionId": 18,
+          "answer": 0
+        },
+        {
+          "questionId": 19,
+          "answer": 2
+        },
+        {
+          "questionId": 20,
+          "answer": 0
+        },
+        {
+          "questionId": 21,
+          "answer": 1
+        },
+        {
+          "questionId": 22,
+          "answer": 3
+        },
+        {
+          "questionId": 23,
+          "answer": 1
+        },
+        {
+          "questionId": 24,
+          "answer": 3
+        },
+        {
+          "questionId": 25,
+          "answer": 2
+        },
+        {
+          "questionId": 26,
+          "answer": 3
+        },
+        {
+          "questionId": 27,
+          "answer": 1
+        },
+        {
+          "questionId": 28,
+          "answer": 3
+        },
+        {
+          "questionId": 29,
+          "answer": 2
+        },
+        {
+          "questionId": 30,
+          "answer": 2
+        },
+        {
+          "questionId": 31,
+          "answer": 3
+        },
+        {
+          "questionId": 32,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "292d",
+      "userId": 1,
+      "topicsId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 3
+        },
+        {
+          "questionId": 3,
+          "answer": 2
+        },
+        {
+          "questionId": 4,
+          "answer": 3
+        },
+        {
+          "questionId": 5,
+          "answer": 3
+        },
+        {
+          "questionId": 6,
+          "answer": 2
+        },
+        {
+          "questionId": 7,
+          "answer": 2
+        },
+        {
+          "questionId": 8,
+          "answer": 2
+        },
+        {
+          "questionId": 9,
+          "answer": 3
+        },
+        {
+          "questionId": 10,
+          "answer": 1
+        },
+        {
+          "questionId": 11,
+          "answer": 3
+        },
+        {
+          "questionId": 12,
+          "answer": 0
+        },
+        {
+          "questionId": 13,
+          "answer": 0
+        },
+        {
+          "questionId": 14,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "af98",
+      "userId": 1,
+      "topicsId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 0
+        },
+        {
+          "questionId": 4,
+          "answer": 0
+        },
+        {
+          "questionId": 5,
+          "answer": 2
+        },
+        {
+          "questionId": 6,
+          "answer": 3
+        },
+        {
+          "questionId": 7,
+          "answer": 3
+        },
+        {
+          "questionId": 8,
+          "answer": 2
+        },
+        {
+          "questionId": 9,
+          "answer": 1
+        },
+        {
+          "questionId": 10,
+          "answer": 0
+        },
+        {
+          "questionId": 11,
+          "answer": 2
+        },
+        {
+          "questionId": 12,
+          "answer": 0
+        },
+        {
+          "questionId": 13,
+          "answer": 2
+        },
+        {
+          "questionId": 14,
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "18d6",
+      "userId": 1,
+      "topicsId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 0
+        },
+        {
+          "questionId": 2,
+          "answer": 3
+        },
+        {
+          "questionId": 3,
+          "answer": 3
+        },
+        {
+          "questionId": 4,
+          "answer": 1
+        },
+        {
+          "questionId": 5,
+          "answer": 1
+        },
+        {
+          "questionId": 6,
+          "answer": 3
+        },
+        {
+          "questionId": 7,
+          "answer": 3
+        },
+        {
+          "questionId": 8,
+          "answer": 1
+        },
+        {
+          "questionId": 9,
+          "answer": 2
+        },
+        {
+          "questionId": 10,
+          "answer": 1
+        },
+        {
+          "questionId": 11,
+          "answer": 2
+        },
+        {
+          "questionId": 12,
+          "answer": 0
+        },
+        {
+          "questionId": 13,
+          "answer": 1
+        },
+        {
+          "questionId": 14,
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
